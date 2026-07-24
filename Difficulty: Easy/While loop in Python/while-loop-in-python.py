@@ -1,0 +1,12 @@
+def printInDecreasing(x):
+    # code here
+    if x < 0:
+        return -1
+    while (x >= 0):
+
+        # your statement below to print the number
+        # in decreasing order
+        # Note: use end=" " parameter with print to seperate numbers by space.
+        ##Output for testcases will automatically separated by a new line by the print() in driver code
+        print(x,end=' ')
+        x -= 1
