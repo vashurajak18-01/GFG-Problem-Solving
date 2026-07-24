@@ -1,7 +1,9 @@
 class Solution:
     def maxSubarraySum(self, arr, k):
         # code here 
+        
         n = len(arr)
+        
         if n<k:
             return 0
         window_sum = sum(arr[:k])
@@ -12,3 +14,6 @@ class Solution:
             max_sum = max(max_sum,window_sum)
             
         return max_sum
+        
+        
+                
