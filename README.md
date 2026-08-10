@@ -42,7 +42,7 @@ GeeksforGeeks/
 └── Other_Problems/
 ```
 
-## 🚀 Progress
+## 🚀 -- Progress --
 
 I will regularly add new GeeksforGeeks problem solutions and update this repository as I continue my DSA journey.
 
