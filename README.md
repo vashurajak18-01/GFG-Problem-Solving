@@ -16,7 +16,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 * Dynamic Programming
 * Greedy Algorithms
 
-## 💻 Language Used
+## 💻 -- Language Used --
 
 * Python 🐍
 
