@@ -20,7 +20,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 
 * Python 🐍
 
-## 🎯 Goals
+## 🎯 -- Goals --
 
 * Practice DSA regularly
 * Improve logical thinking
