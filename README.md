@@ -28,7 +28,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 * Write clean and optimized code
 * Prepare for coding interviews
 
-## 📂 Repository Structure
+## 📂 -- Repository Structure --
 
 ```text
 GeeksforGeeks/
