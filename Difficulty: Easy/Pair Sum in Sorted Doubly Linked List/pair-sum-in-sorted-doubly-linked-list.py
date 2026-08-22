@@ -31,4 +31,3 @@ class Solution:
                 right = right.prev
 
         return result
-        
