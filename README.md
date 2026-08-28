@@ -13,8 +13,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 * **Searching and Sorting**
 * **Trees**
 * **Graphs**
-* Dynamic Programming
-* Greedy Algorithms
+
 
 ## 💻 -- Language Used --
 
