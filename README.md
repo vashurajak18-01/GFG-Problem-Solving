@@ -9,7 +9,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 * **Linked Lists**
 * **Stacks and Queues**
 * **Hashing**
-* Recursion
+* **Recursion**
 * Searching and Sorting
 * Trees
 * Graphs
