@@ -11,7 +11,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 * **Hashing**
 * **Recursion**
 * **Searching and Sorting**
-* Trees
+* **Trees**
 * Graphs
 * Dynamic Programming
 * Greedy Algorithms
