@@ -12,7 +12,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 * **Recursion**
 * **Searching and Sorting**
 * **Trees**
-* Graphs
+* **Graphs**
 * Dynamic Programming
 * Greedy Algorithms
 
