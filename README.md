@@ -11,8 +11,8 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 * **Hashing**
 * **Recursion**
 * **Searching and Sorting**
-* **Trees**
-* **Graphs**
+* Traversing
+
 
 
 ## 💻 -- **Language Used** --
