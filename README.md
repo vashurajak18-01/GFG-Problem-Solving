@@ -17,7 +17,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 
 ## 💻 -- **Language Used** --
 
-* _Python_ 🐍
+* *_Python_* 🐍
 
 ## 🎯 _Goals_
 
