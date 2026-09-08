@@ -4,7 +4,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 
 ## 📌 _Topics Covered_ 
 
-* *_Arrays_*
+* **_Arrays_**
 * **_Strings_**
 * **Linked Lists**
 * **Stacks and Queues**
