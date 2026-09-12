@@ -10,7 +10,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 * **_Stacks and Queues_**
 * **_Hashing_**
 * **_Recursion_**
-* **Searching and Sorting**
+* **_Searching and Sorting_**
 * **Traversing**
 
 
