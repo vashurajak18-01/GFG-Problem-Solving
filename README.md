@@ -6,7 +6,7 @@ This repository contains my solutions to various **GeeksforGeeks (GFG)** coding 
 
 * **_Arrays_**
 * **_Strings_**
-* **Linked Lists**
+* **_Linked Lists_**
 * **Stacks and Queues**
 * **Hashing**
 * **Recursion**
