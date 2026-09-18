@@ -21,7 +21,7 @@ _This repository contains my solutions to various **GeeksforGeeks (GFG)** coding
 
 ## 🎯 **_Goals_**
 
-* Practice DSA regularly
+* _Practice DSA regularly_
 * Improve logical thinking
 * Learn different problem-solving approaches
 * Write clean and optimized code
