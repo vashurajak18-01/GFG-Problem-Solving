@@ -2,7 +2,7 @@
 
 *_This repository contains my solutions to various **GeeksforGeeks (GFG)** coding problems. I use this repository to practice **Data Structures and Algorithms (DSA)**, improve my problem-solving skills, and strengthen my programming knowledge._*
 
-## 📌 **_Topics Covered_**
+## 📌 ***_Topics Covered_***
 
 * **_Arrays_**
 * **_Strings_**
