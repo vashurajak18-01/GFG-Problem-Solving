@@ -16,7 +16,7 @@
 
 
 
-## 💻 -- **__Language Used__** --
+## 💻  **__Language Used__**
 
 * **_Python_** 🐍
 
