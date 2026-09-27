@@ -10,7 +10,7 @@
 * **__Stacks and Queues__**
 * **__Hashing__**
 * **_Tree_**
-* **_Recursion_**
+* **__Recursion__**
 * **_Searching and Sorting_**
 * **_Traversing_**
 
