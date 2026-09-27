@@ -7,7 +7,7 @@
 * **__Arrays__**
 * **__Strings__**
 * **__Linked Lists__**
-* **_Stacks and Queues_**
+* **__Stacks and Queues__**
 * **_Hashing_**
 * **_Tree_**
 * **_Recursion_**
