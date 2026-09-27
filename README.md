@@ -5,7 +5,7 @@
 ## 📌 **__Topics Covered__**
 
 * **__Arrays__**
-* **_Strings_**
+* **__Strings__**
 * **_Linked Lists_**
 * **_Stacks and Queues_**
 * **_Hashing_**
