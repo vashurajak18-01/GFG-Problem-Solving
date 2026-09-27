@@ -9,7 +9,7 @@
 * **__Linked Lists__**
 * **__Stacks and Queues__**
 * **__Hashing__**
-* **_Tree_**
+* **__Tree__**
 * **__Recursion__**
 * **_Searching and Sorting_**
 * **_Traversing_**
