@@ -8,7 +8,7 @@
 * **__Strings__**
 * **__Linked Lists__**
 * **__Stacks and Queues__**
-* **_Hashing_**
+* **__Hashing__**
 * **_Tree_**
 * **_Recursion_**
 * **_Searching and Sorting_**
