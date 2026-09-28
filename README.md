@@ -12,7 +12,7 @@
 * **__Tree__**
 * **__Recursion__**
 * **__Searching and Sorting__**
-* **_Traversing_**
+* **__Traversing__**
 
 
 
