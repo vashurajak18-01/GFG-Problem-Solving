@@ -26,7 +26,7 @@
 * **__Improve logical thinking__**
 * **__Learn different problem-solving approaches__**
 * **__Write clean and optimized code__**
-* **_Prepare for coding interviews_**
+* **__Prepare for coding interviews__**
 
 ## 📂 **_Repository Structure_**
  
