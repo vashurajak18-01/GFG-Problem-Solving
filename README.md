@@ -22,7 +22,7 @@
 
 ## 🎯 **_Goals_**
 
-* **_Practice DSA regularly_**
+* **__Practice DSA regularly__**
 * **_Improve logical thinking_**
 * **_Learn different problem-solving approaches_**
 * **_Write clean and optimized code_**
