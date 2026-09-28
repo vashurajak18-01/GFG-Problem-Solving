@@ -24,7 +24,7 @@
 
 * **__Practice DSA regularly__**
 * **__Improve logical thinking__**
-* **_Learn different problem-solving approaches_**
+* **__Learn different problem-solving approaches__**
 * **_Write clean and optimized code_**
 * **_Prepare for coding interviews_**
 
