@@ -25,7 +25,7 @@
 * **__Practice DSA regularly__**
 * **__Improve logical thinking__**
 * **__Learn different problem-solving approaches__**
-* **_Write clean and optimized code_**
+* **__Write clean and optimized code__**
 * **_Prepare for coding interviews_**
 
 ## 📂 **_Repository Structure_**
