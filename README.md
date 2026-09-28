@@ -11,7 +11,7 @@
 * **__Hashing__**
 * **__Tree__**
 * **__Recursion__**
-* **_Searching and Sorting_**
+* **__Searching and Sorting__**
 * **_Traversing_**
 
 
