@@ -28,7 +28,7 @@
 * **__Write clean and optimized code__**
 * **__Prepare for coding interviews__**
 
-## 📂 **_Repository Structure_**
+## 📂 **__Repository Structure__**
  
 ```text
 GeeksforGeeks/
