@@ -18,7 +18,7 @@
 
 ## 💻  **__Language Used__**
 
-* **_Python_** 🐍
+* **__Python__** 🐍
 
 ## 🎯 **_Goals_**
 
