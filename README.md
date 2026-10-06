@@ -20,7 +20,7 @@
 
 * ***___Python___*** 🐍
 
-## 🎯 **__Goals__**
+## 🎯 **___Goals___**
 
 * **__Practice DSA regularly__**
 * **__Improve logical thinking__**
